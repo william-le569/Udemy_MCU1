@@ -1,8 +1,8 @@
 # Thư mục biên dịch và build do IDE tự sinh
-/Debug/
-/Release/
-/Binaries/
-/Objects/
+Debug/
+Release/
+Binaries/
+Objects/
 
 # Các file định dạng biên dịch và kết quả đầu ra
 *.elf

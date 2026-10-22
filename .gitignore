@@ -1,0 +1,18 @@
+# Thư mục biên dịch và build do IDE tự sinh
+/Debug/
+/Release/
+/Binaries/
+/Objects/
+
+# Các file định dạng biên dịch và kết quả đầu ra
+*.elf
+*.map
+*.hex
+*.bin
+*.o
+*.d
+
+# Cấu hình cá nhân của Eclipse / STM32CubeIDE
+.settings/
+.launch
+*.launch
